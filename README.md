@@ -27,6 +27,7 @@ The Enron Corporation was a prominent energy, commodities, and services company 
 - Email Traffic Over Time
 - Top senders and Recipicients
 - Email of distribution of recipients type.
+
 Find the detailed documentation [here](https://colab.research.google.com/github/LouranHa/isys2001-assignment-demo/blob/main/THE_REPORT_NOTEBOOK_(completed)_.ipynb#scrollTo=tawIOto-daU2)
 ----------------------------------------------------------------------
 ## Aim
