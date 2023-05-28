@@ -1,7 +1,7 @@
 # isys2001-assignment-demo
-Enron Emails Analysis
-
+# Enron Emails Analysis
 The Enron Corporation was a prominent energy, commodities, and services company that became mired in a massive scandal and ultimately filed for bankruptcy; this scandal is the focus of the Enron case study. The purpose of this case study is to examine the Enron Mail dataset, which consists of emails sent and received by Enron executives, employees, and associates. The research utilises Python programming in Google Colab notebooks to delve into SQLite databases, data exploration, data visualisation, and programming best practises. By combining code, visualisations, and explanatory text in a single Python notebook, the analytical process can be made more transparent and easily understood by a wider audience.
+
 ----------------------------------------------------------------------
 Task Performed:
 - Create a new Google Colad Notebooke
