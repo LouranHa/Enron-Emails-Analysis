@@ -5,11 +5,11 @@ The Enron Corporation was a prominent energy, commodities, and services company 
 
 --------------------------------------------------------------------
 # Table of contents:
--[Task Performed](#Task Performed)
+-[TaskPerformed](#Task Performed)
 
--[Anlyses and Visualisation](#Anlyses and Visualisation)
+-[AnlysesandVisualisation](#Anlyses and Visualisation)
 
--[The Purpose of analying Enron Case Study](The Purpose of analying Enron Case Study)
+-[ThePurposeofanalyingEnronCaseStudy](The Purpose of analying Enron Case Study)
 
 -[consequences](#consequences)
 
