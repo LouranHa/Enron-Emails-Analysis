@@ -24,6 +24,7 @@ The Enron Corporation was a prominent energy, commodities, and services company 
 - Interpretation and conclusion
 
 ### Anlyses and Visualisation:
+
 -Email Traffic Over Time
 -Top senders and Recipicients
 -Email of distribution of recipients type.
